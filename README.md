@@ -1,28 +1,9 @@
 # Mô tả về các tệp:
-* Dành cho <b>tất cả</b> các lớp
-     + `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
+* `Cong-thuc.pdf` liệt kê các <b>công thức</b> của môn học
+* `Lenh-Python.pdf` chỉ bản cứng của file này <b>được sử dụng khi thi</b>
+* `Thuc-hanh-Python.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
 
-* Dành cho lớp học Xác suất thống kê bằng <b>Python</b>
-     + `Lenh-Python.pdf` chỉ bản cứng của file này <b>được sử dụng khi thi</b>
-     + `Thuc-hanh-Python.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành
-
-* Dành cho lớp học Xác suất thống kê bằng <b>Mathematica</b> và <b>Excel</b>
-     + `Thuc-hanh-Mathematica-Excel.pdf` sinh viên có <b>bản cứng</b> mới được vào phòng máy thực hành  
-     + <b>Link file cài đặt Mathematica</b> bao gồm <b>hướng dẫn</b> cài đặt
-     <p align="center">
-          <a href="https://drive.google.com/uc?id=1Y6kC9QGPPz8x3PQdkcc5TvmohQS34-Cs&export=download">
-          Google Drive
-          </a>
-     </p>
-
-     + <b>Video</b> hướng dẫn cài đặt Mathematica 5.2 và thực hành
-     <p align="center">
-          <a href="https://www.youtube.com/watch?v=-f7oyw9mgak&list=PLgFze5QynAFNR3aFNlxb_P4UZiveYddN9&ab_channel=Th%E1%BB%8BnhN.%C4%90.">
-          YouTube
-          </a>
-     </p>
-
-# Câu hỏi thường gặp
+# Hỏi đáp
 * <b><i>Hình thức thi thế nào?</i></b>
 
      <b><i>Trả lời:</i></b> thi tự luận, <b>không</b> sử dụng tài liệu, trên <b>máy tính</b> ở phòng máy
